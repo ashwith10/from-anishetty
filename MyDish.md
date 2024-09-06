@@ -5,7 +5,7 @@ I like this food beacuse it tastes good authentic flavours.Its famous food in my
 
 ---
 
-### Table
+# Table
 
 The below table gives the information about restaurants/food vendors.I had created the table with 4 names<br>
 
@@ -17,3 +17,10 @@ The below table gives the information about restaurants/food vendors.I had creat
 |KFC|Chicken popcorn must try|Mumbai|
 
 ---
+
+# Favorite Quotes
+
+> "I'm killing time while I wait for life to shower me with meaning and happiness".- *Bill Waterson*
+>
+> "My ability to turn good news into anxiety is rivaled only by my ability to turn anxiety into chin acne".- *Bosypants*
+
