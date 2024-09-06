@@ -10,7 +10,7 @@ I like this food beacuse it tastes good authentic flavours.Its famous food in my
 The below table gives the information about restaurants/food vendors.I had created the table with 4 names<br>
 
 |Name of restaurant|Recommendation|Location|
-|---|---|---:|
+|:---|:---|:---:|
 |Pista house|Biryani must try|Hyderabad|
 |Kursheed|Deserts are good|Warangal|
 |Barista|Milkshakes must try|Delhi|
